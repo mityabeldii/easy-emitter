@@ -1,0 +1,7 @@
+node_modules
+.gitignore
+.prettierrc.js
+index.ts
+index.js
+package-lock.json
+LICENSE
